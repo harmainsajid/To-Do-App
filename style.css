@@ -99,7 +99,7 @@ ul li.checked::before {
   background-image: url(./assets/checked.png);
 }
 
-/* ===================== Responsive Design ===================== */
+/* ====================== Responsive Design ====================== */
 
 /* Tablets */
 @media (max-width: 768px) {
